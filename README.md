@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on side projects that will help me learn new technologies as a developer<br>I'm looking to collaborate on revolutionary ideas that will make the world a better place<br>I'm currently learning how to use redis and webSockets<br>
+🎯 Hi, I'm Shahar, a creative problem solver and tech enthusiast with a relentless passion for crafting innovative solutions. My journey in software development is fueled by curiosity, collaboration, and a drive to push boundaries in  areas like web development, AI, cloud, etc.
+
+🌟 I thrive in environments where ideas flow freely and the code brings them to life. From tackling ambitious side projects to working on cutting-edge technologies, I’m always eager to learn, iterate, and create meaningful digital experiences.
+
+⚙️ Let's build something extraordinary together! Got a vision, a challenge, or just want to brainstorm? Drop me a message and let’s make it happen!
 
 
 ## 🌐 Socials:
